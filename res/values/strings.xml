@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBar&amp;Fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="label1">menu</string>
+	<string name="label2">About Us</string>
+	<string name="body1">This is the menu</string>
+	<string name="body2">Our company name: AllAround</string>
+</resources>
